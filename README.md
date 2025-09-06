@@ -100,9 +100,9 @@ interface GigabitEthernet0/0/1.12
 
 ---
 
-## 📂 File Attached
+## 📂 Video Attached
 
-* `VLAN-InterVLAN.pkt` – Packet Tracer lab file
+* 
 
 ---
 
